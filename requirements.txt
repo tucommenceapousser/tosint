@@ -1,1 +1,6 @@
 requests
+questionary
+colorama
+termcolor
+time
+sys
