@@ -1,6 +1,6 @@
 # 🌟 Welcome to Tosint! 🌟
 
-![Logo](https://politikfranbly-trkn.replit.app/trkn.svg)
+![Logo](https://politikfranbly-trkn.replit.app/tosint.svg)
 
 Tosint (Telegram OSINT) is your ultimate companion for extracting juicy information from Telegram bots and their associated channels. 🚀
 
