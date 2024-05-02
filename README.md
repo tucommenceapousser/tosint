@@ -3,6 +3,9 @@
 
 Tosint (Telegram OSINT) is your ultimate companion for extracting juicy information from Telegram bots and their associated channels. 🚀
 
+## Clone on replit
+[![Run on Replit](https://replit.com/badge/github/tucommenceapousser/trkntosint)](https://replit.com/github/tucommenceapousser/trkntosint)
+
 With Tosint, you can uncover a treasure trove of data including:
 
 <details>
