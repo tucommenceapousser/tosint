@@ -76,4 +76,4 @@ Administrators in the Chat:
 
 This project is licensed under the GNU General Public License v3.0 📜
 
-For more information and to contribute, visit [trhacknon/tosint](https://github.com/trhacknon/tosint).
+For more information and to contribute, visit [trhacknon/tosint](https://github.com/tucommenceapousser/tosint).
