@@ -1,43 +1,79 @@
-# tosint
 
-Tosint (Telegram OSINT) is a tools to extract information from telegram bots and related associated channels.
+# 🌟 Welcome to Tosint! 🌟
 
-Tosint allows you to extract the following information:
+Tosint (Telegram OSINT) is your ultimate companion for extracting juicy information from Telegram bots and their associated channels. 🚀
 
-* Bot information (First Name, Username, User ID, Status);
-* Chat information (Title, Type, ID, Username, Invite Link);
-* Invite Link;  
-* Number of users in the chat;
-* Information about chat administrators.
+With Tosint, you can uncover a treasure trove of data including:
+
+<details>
+  <summary>🤖 Bot Details</summary>
+
+  - First Name: Over Security Bot
+  - Username: over_security_bot
+  - User ID: 56XXXXXX00
+  - Can Read Group Messages: False
+  - Is An Administrator in the Chat: Yes
+</details>
+
+<details>
+  <summary>🗣️ Chat Insights</summary>
+
+  - Title: Over Security
+  - Type: Channel
+  - ID: -100XXXXXX3196
+  - Has Visible History: Yes
+  - Username: OverSecurity
+</details>
+
+<details>
+  <summary>💌 Invite Links</summary>
+
+  - [Join Now!](https://t.me/+VmWXXXXXXHI1MTM0)
+  - [Here](https://t.me/+AqcXXXXXXGJmZjk0)
+  - [Check it out!](https://t.me/+LCsXXXXXXMgyYTg0)
+</details>
+
+<details>
+  <summary>👥 Number of Users</summary>
+
+  - 286
+</details>
+
+<details>
+  <summary>👑 Administrators</summary>
+
+  - 🤖 Trhacknon Bot (@trhacknon)
+</details>
 
 ### Example
 
-```
-$ python3 tosint.py
-Telegram Token (bot1xxx): 562ZZZZ900:XXXXNj7_wIEi74GXXX90CIxACBIX_YYYYwI
-Telegram Chat ID (-100xxx): -1001XXXXXX196
+```bash
+$ python3 main.py
+Enter your Telegram Token (bot1xxx): 562ZZZZ900:XXXXNj7_wIEi74GXXX90CIxACBIX_YYYYwI
+Enter your Telegram Chat ID (-100xxx): -1001XXXXXX196
 
-Analysis of token: 562ZZZZ900:XXXXNj7_wIEi74GXXX90CIxACBIX_YYYYwI and chat id: -1001XXXXXX196
+Analyzing token: 562ZZZZ900:XXXXNj7_wIEi74GXXX90CIxACBIX_YYYYwI and chat ID: -1001XXXXXX196
 
 Bot First Name: Over Security Bot
 Bot Username: over_security_bot
 Bot User ID: 56XXXXXX00
 Bot Can Read Group Messages: False
-Bot In The Chat Is An: administrator
+Bot Is An Administrator in the Chat: Yes
 Chat Title: Over Security
-Chat Type: channel
+Chat Type: Channel
 Chat ID: -100XXXXXX3196
-Chat has Visible History: True
+Chat Has Visible History: Yes
 Chat Username: OverSecurity
-Chat Invite Link: https://t.me/+VmWXXXXXXHI1MTM0
-Chat Invite Link (exported): https://t.me/+AqcXXXXXXGJmZjk0
-Chat Invite Link (created): https://t.me/+LCsXXXXXXMgyYTg0
-Number of users in the chat: 286
-Administrators in the chat:
-{'id': 56XXXXXX00, 'is_bot': True, 'first_name': 'Over Security Bot', 'username': 'over_security_bot'}
-{'id': 20XXXX39, 'is_bot': False, 'first_name': 'Andrea', 'last_name': 'Draghetti', 'username': 'AndreaDraghetti'}
+Chat Invite Link: [Join Now!](https://t.me/+VmWXXXXXXHI1MTM0)
+Chat Invite Link (exported): [Here](https://t.me/+AqcXXXXXXGJmZjk0)
+Chat Invite Link (created): [Check it out!](https://t.me/+LCsXXXXXXMgyYTg0)
+Number of Users in the Chat: 286
+Administrators in the Chat:
+- 🤖 Trhacknon Bot (@trhacknon)
 ```
 
 ### License
 
-GNU General Public License v3.0
+This project is licensed under the GNU General Public License v3.0 📜
+
+For more information and to contribute, visit [trhacknon/tosint](https://github.com/trhacknon/tosint).
