@@ -1,4 +1,4 @@
-# 🌟 Welcome to Tosint! 🌟
+# 🏴 Welcome to Tosint by Trhacknon! 🏴
 
 ![Logo](https://politikfranbly-trkn.replit.app/tosint.svg)
 
